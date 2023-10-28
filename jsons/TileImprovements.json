@@ -1,0 +1,10 @@
+[
+        {
+                "name": "Harbor",
+                "terrainsCanBeBuiltOn": ["Coast"],
+                "production": 1,
+                "uniques": ["Unbuildable",
+                        "Gives a defensive bonus of [100]%","Removes removable features when built",
+                "Costs [2] [Gold] per turn","Pillaging this improvement yields approximately [+50 Gold]"]
+        }
+]
