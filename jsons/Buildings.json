@@ -1,0 +1,11 @@
+[
+        {
+                "name": "Harbor",
+		"cost": 120,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Food] from [Water resource] tiles [in this city]",
+			"Connects trade routes over water","Must be next to [Coast]",
+                        "Creates a [Harbor] improvement on a specific tile"],
+		"requiredTech": "Compass"
+        }
+]
