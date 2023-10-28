@@ -4,7 +4,7 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-TileSets/HexaRealm/Tiles/Coast+Harbor
+TileSets/HexaRealm/Tiles/Harbor
   rotate: false
   xy: 1894, 1836
   size: 64, 61
